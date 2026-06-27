@@ -6,6 +6,7 @@ This repository contains my DSA and LeetCode solutions in C++.
 - Arrays
 - maths
 - string
+- Tree
 
 ## Platform
 - LeetCode
